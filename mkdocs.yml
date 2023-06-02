@@ -1,6 +1,9 @@
 site_name: ViolinProjectSTM32CubeIDE
 nav:
   - Home: index.md
+  - Le projet: objectif.md
+  - Guide d'utilisation: guide.md
+  - About: about.md 
 theme: readthedocs
 site_url: https://rbennani.gitlab.io
 site_dir: public
