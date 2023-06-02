@@ -5,4 +5,19 @@
          <lastmod>2023-06-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://rbennani.gitlab.io/about/</loc>
+         <lastmod>2023-06-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rbennani.gitlab.io/guide/</loc>
+         <lastmod>2023-06-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rbennani.gitlab.io/objectif/</loc>
+         <lastmod>2023-06-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
